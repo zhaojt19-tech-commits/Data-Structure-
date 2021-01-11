@@ -1,17 +1,5 @@
 # Data-Structure-
-#pragma warning(disable:4819)
-#pragma warning(disable:4244)
-#pragma warning(disable:4267)
-
-#include <time.h>
-#include <iostream>
-#include <fstream>
-#include <vector>
-#include <algorithm>
-#include <opencv2/opencv.hpp>
-#include <Eigen/Eigen>
-#include <limits>
-
+#include iostream
 // 用于判断投影是否在visual hull内部
 struct Projection
 {
